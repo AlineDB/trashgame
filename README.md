@@ -4,9 +4,9 @@ Jeu développé dans le cadre du cours de Javascript pour l'examen de juin 2022.
 
 Règles
 
-Les déchets tombent. A toi de les mettre dans la bonne poubelle à l'aide des touches <- et ->. 
+Les déchets tombent. A toi de les attraper pour les glisser dans la bonne poubelle à l'aide de la souris ou l'écran tactile. 
 
-Tu commences la partie avec 3 vies et un chrono de 60 secondes. Si tu manques un déchet, tu pers une vie. Si le déchet ne correspond pas à la poubelle, tu perds une vie. 
+Tu commences la partie avec 3 vies et un chrono de 60 secondes. Si tu manques un déchet, tu perds une vie. Si le déchet ne correspond pas à la poubelle, tu perds une vie. 
 
 Les plastiques et métaux vont dans la poubelle bleu. Les déchets dégradables ou de nourriture vont dans la poubelle verte. Le reste va dans la poubelle noire.
 
